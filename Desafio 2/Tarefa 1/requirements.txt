@@ -1,0 +1,5 @@
+virtualenv
+sqlalchemy
+mysql-connector-python
+uvicorn
+pydantic
